@@ -1,2 +1,2 @@
-# JavaScript
-Dando os primeiros passos na linguagem JavaScript
+# Front-end
+Dando meus primeiros passos no front-end
